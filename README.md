@@ -1,2 +1,9 @@
 # S_H_M_U_P
-A shmup, with bullet hell mechanics.
+This is an EXTREMELY, *EXTREMELY* early version of a more epic game I'm making.
+
+  How to Install
+After downloading, click setup.exe to start it.
+Of course, this only works on Windows, although it CAN be done with Windows XP.
+
+  How to Play
+Arrow Keys to move, and ZXC to shoot. Try to attain a high score.
