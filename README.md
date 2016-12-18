@@ -14,3 +14,5 @@ Currently, Z shoots 3 spread-out bullets, X shoots a single, powerful bullet tha
 There are currently 5 types of enemies.
 
 If you're having trouble trying to find the player, it's the only thing that directly responds to your movement.
+
+R to restart (note: only after dying.)
